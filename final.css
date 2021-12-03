@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/Sk4ioZk.png);
+    background: url(https://imgur.com/p3dpTDt.png);
 }
 
 .ds4 .button.pressed {
@@ -228,7 +228,7 @@ background-position: 0 -70px;
     left: 92px;
 }
 
-.ds4 .face {
+.ds4 . {
     background: url(ps4-assets/dpad.svgz);
     position: absolute;
 }
